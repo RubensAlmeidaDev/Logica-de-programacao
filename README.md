@@ -21,11 +21,11 @@ Modelo de pseudo codigo x linguagem de programação:
 - **boolean:** É um tipo verdadeiro ou falso, ou até binário, podendo em alguns casos ser nullable. Ex.: true or false, 1 ou 0 , s ou n, em alguns casos podendo receber valor vazio então dizendo que esse valor é nulável;
 
 ### Operadores:
-- **Operadores Aritméticos:**
-  - **Adição (+):**
-  - **Subtração (-):**
-  - **Multiplicação (*):**
-  - **Divisão (/):**
-  - **Módulo (%):**
+- **Operadores Aritméticos:** São usados para calculos na matematica, 
+  - **Adição (+):** Utilizado para soma;
+  - **Subtração (-):** Utilizado para subtrair;
+  - **Multiplicação (*):** Utilizado para multiplicar;
+  - **Divisão (/):** Utilizado para dividir;
+  - **Módulo (%):** Utilizado para calcular o resto da divisão;
 ### Fontes:
 - [Lógica de programação-Atekitta Dev](https://www.youtube.com/watch?v=gMxQ8vxH9Vk&t=20s)
