@@ -41,5 +41,12 @@ Modelo de pseudo codigo x linguagem de programação:
   - **Menor que (<):**
   - **Maior ou igual (>=):**
   - **Menor ou igual (<=):**
+ 
+### Condicionais: 
+Os condiconais são utilizados para especificar uma condição, "SE" tal condicao for atendida o codigo executara determinada funçao, "SENÃO" o codigo executara outra funçao completamente diferente. Em um dos casos pode não executar nada, porém de forma exclusiva. Ex.: SE estiver chovendo, vou de carro. SENÃO vou de moto. 
+- **If:** Se a condiçao for verdadeira: chovendo==true
+- **Else:** Se a condiçao for falsa: faço a proxima instrução( vou de moto );
+- **Else if:** Serve para vovce colocar mais de um IF
+- **Switch case:** 
 ### Fontes:
 - [Lógica de programação-Atekitta Dev](https://www.youtube.com/watch?v=gMxQ8vxH9Vk&t=20s)
