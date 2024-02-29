@@ -19,5 +19,13 @@ Modelo de pseudo codigo x linguagem de programação:
 - **char:** Um unico caracter. Ex.:a, b, s, n, 2, @;
 - **string:** É m conjunto de char, pode ser mais de um caracter, e ele é lido como texto, assim como o char ele não pode ser somado, apenas concatenado. Ex.: sim, nao, 2+2, bom dia;
 - **boolean:** É um tipo verdadeiro ou falso, ou até binário, podendo em alguns casos ser nullable. Ex.: true or false, 1 ou 0 , s ou n, em alguns casos podendo receber valor vazio então dizendo que esse valor é nulável;
+
+### Operadores:
+- **Operadores Aritméticos:**
+  - **Adição (+):**
+  - **Subtração (-):**
+  - **Multiplicação (*):**
+  - **Divisão (/):**
+  - **Módulo (%):**
 ### Fontes:
 - [Lógica de programação-Atekitta Dev](https://www.youtube.com/watch?v=gMxQ8vxH9Vk&t=20s)
