@@ -27,5 +27,20 @@ Modelo de pseudo codigo x linguagem de programação:
   - **Multiplicação (*):**
   - **Divisão (/):**
   - **Módulo (%):**
+- **Operadores de Atribuição:**
+  - **=**
+  - **+=**
+- **Operadores Lógicos:**
+  - **E lógico (&&):**
+  - **OU lógico (||):**
+  - **NÃO lógico (!):**
+- **Operadores de Comparação:**
+  - **Igual (==):**
+  - **Diferente (!=):**
+  - **Maior que (>):**
+  - **Menor que (<):**
+  - **Maior ou igual (>=):**
+  - **Menor ou igual (<=):**
+
 ### Fontes:
 - [Lógica de programação-Atekitta Dev](https://www.youtube.com/watch?v=gMxQ8vxH9Vk&t=20s)
